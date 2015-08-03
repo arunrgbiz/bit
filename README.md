@@ -1,14 +1,14 @@
 # bit
 Started on Aug 3rd 2015
 
-Main Theme
+Main Theme:
 My simple version control for Organizing notes and references
 
 Using Python 3.4.x
 
-Project Overview
+Project Overview:
 Purpose: I needed a simple set of commands to organize my Files, Tag them, and search them.
-I would like to maintain the meta information along with the files, and viewer - rather an excel file.
+I would like to maintain the meta information along with the files, and viewer - rather than in an excel file.
 
 The Project will use limited commands and options to focus on the tasks which I have
 like
